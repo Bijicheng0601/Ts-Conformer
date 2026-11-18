@@ -1,7 +1,7 @@
 {
   "checks": [
-    "All prediction files contain exactly true_label and predicted_label",
-    "Row order and true/predicted labels preserved",
+    "Prediction fields match the original shared files except for the two probability fields",
+    "Original pseudonymized subject codes, row order and labels restored unchanged",
     "Primary accuracy remains unchanged"
   ],
   "prediction_rows": {
@@ -33,5 +33,63 @@
     "Prediction probabilities omitted; ROC-AUC and PR-AUC cannot be recomputed",
     "Full model retraining and raw EEG preprocessing were not rerun",
     "Exact final manuscript figure coverage is unverified"
-  ]
+  ],
+  "prediction_columns": {
+    "data/predictions/minibatch.csv": [
+      "fold",
+      "subject",
+      "final_response_label_core2",
+      "true_label",
+      "predicted_label"
+    ],
+    "data/predictions/no_attention.csv": [
+      "fold",
+      "subject",
+      "final_response_label_core2",
+      "true_label",
+      "predicted_label"
+    ],
+    "data/predictions/patchtst.csv": [
+      "fold",
+      "subject",
+      "final_response_label_core2",
+      "true_label",
+      "predicted_label"
+    ],
+    "data/predictions/shallowconvnet.csv": [
+      "fold",
+      "subject",
+      "final_response_label_core2",
+      "true_label",
+      "predicted_label"
+    ],
+    "data/predictions/tcn.csv": [
+      "fold",
+      "subject",
+      "final_response_label_core2",
+      "true_label",
+      "predicted_label"
+    ],
+    "data/predictions/temporal_resnet.csv": [
+      "fold",
+      "subject",
+      "final_response_label_core2",
+      "true_label",
+      "predicted_label"
+    ],
+    "data/predictions/timesnet.csv": [
+      "fold",
+      "subject",
+      "final_response_label_core2",
+      "true_label",
+      "predicted_label"
+    ],
+    "data/predictions/ts_conformer.csv": [
+      "fold",
+      "subject",
+      "final_response_label_core2",
+      "true_label",
+      "predicted_label"
+    ]
+  }
 }

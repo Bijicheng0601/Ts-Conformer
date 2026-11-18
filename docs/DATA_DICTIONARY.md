@@ -12,4 +12,7 @@ The manifest records every CSV column and row count.
 
 Missing cells remain missing; no values were imputed during packaging. File names identify runs, not proof of correspondence to the final submitted manuscript.
 
-Prediction CSVs contain only `true_label` and `predicted_label` (effective/ineffective). Row order and labels are preserved. Probabilities, subject codes and fold identifiers are omitted. ROC-AUC and PR-AUC cannot be recomputed from these files.
+Prediction CSVs retain the original fold, pseudonymized subject, response-label and true/predicted-label fields. Only predicted_probability_effective and true_label_probability are removed where present. Labels, row order and participant codes are unchanged. ROC-AUC and PR-AUC cannot be recomputed without the probabilities.
+
+- `fold`: original leave-one-subject-out fold index.
+- `predicted_label`: predicted response class (effective/ineffective).

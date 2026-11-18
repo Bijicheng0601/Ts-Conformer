@@ -371,6 +371,9 @@
     "file": "data/predictions/ts_conformer.csv",
     "rows": 25,
     "columns": [
+      "fold",
+      "subject",
+      "final_response_label_core2",
       "true_label",
       "predicted_label"
     ]
@@ -379,6 +382,9 @@
     "file": "data/predictions/no_attention.csv",
     "rows": 25,
     "columns": [
+      "fold",
+      "subject",
+      "final_response_label_core2",
       "true_label",
       "predicted_label"
     ]
@@ -387,6 +393,9 @@
     "file": "data/predictions/minibatch.csv",
     "rows": 25,
     "columns": [
+      "fold",
+      "subject",
+      "final_response_label_core2",
       "true_label",
       "predicted_label"
     ]
@@ -395,6 +404,9 @@
     "file": "data/predictions/shallowconvnet.csv",
     "rows": 25,
     "columns": [
+      "fold",
+      "subject",
+      "final_response_label_core2",
       "true_label",
       "predicted_label"
     ]
@@ -403,6 +415,9 @@
     "file": "data/predictions/temporal_resnet.csv",
     "rows": 25,
     "columns": [
+      "fold",
+      "subject",
+      "final_response_label_core2",
       "true_label",
       "predicted_label"
     ]
@@ -411,6 +426,9 @@
     "file": "data/predictions/tcn.csv",
     "rows": 25,
     "columns": [
+      "fold",
+      "subject",
+      "final_response_label_core2",
       "true_label",
       "predicted_label"
     ]
@@ -419,6 +437,9 @@
     "file": "data/predictions/patchtst.csv",
     "rows": 25,
     "columns": [
+      "fold",
+      "subject",
+      "final_response_label_core2",
       "true_label",
       "predicted_label"
     ]
@@ -427,6 +448,9 @@
     "file": "data/predictions/timesnet.csv",
     "rows": 25,
     "columns": [
+      "fold",
+      "subject",
+      "final_response_label_core2",
       "true_label",
       "predicted_label"
     ]

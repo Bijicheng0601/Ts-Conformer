@@ -18,4 +18,4 @@ Repository: https://github.com/Bijicheng0601/Ts-Conformer
 
 No DOI has been assigned yet. It is not a complete raw-to-result reproduction package.
 
-Prediction CSVs provide true and predicted labels only. Accuracy, balanced accuracy and confusion matrices can be recomputed; probability-based ROC-AUC/PR-AUC and subject-level linkage cannot be reproduced from these reduced files.
+Prediction CSVs retain the original fold, pseudonymized subject, response-label and true/predicted-label fields. Only predicted_probability_effective and true_label_probability are removed where present. Labels, row order and participant codes are unchanged. ROC-AUC and PR-AUC cannot be recomputed without the probabilities.
