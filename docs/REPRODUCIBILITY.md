@@ -7,3 +7,5 @@
 5. Confirm original environment versions and full training configuration. Full retraining has not been run.
 6. The author confirmed permission to publicly share de-identified behavioral and prediction data. Random codes replace source identifiers; review residual re-identification risks and choose appropriate data/code licenses with the rights holder.
 7. Publish only after reviewing these items. A GitHub URL is not a DOI. Archive the approved release with Zenodo to obtain a version-specific DOI; no DOI exists yet.
+
+Prediction CSVs provide true and predicted labels only. Accuracy, balanced accuracy and confusion matrices can be recomputed; probability-based ROC-AUC/PR-AUC and subject-level linkage cannot be reproduced from these reduced files.

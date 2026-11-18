@@ -17,3 +17,5 @@ Training requires authorized preprocessed EEG epochs, not included here. Set `TS
 Repository: https://github.com/Bijicheng0601/Ts-Conformer
 
 No DOI has been assigned yet. It is not a complete raw-to-result reproduction package.
+
+Prediction CSVs provide true and predicted labels only. Accuracy, balanced accuracy and confusion matrices can be recomputed; probability-based ROC-AUC/PR-AUC and subject-level linkage cannot be reproduced from these reduced files.
