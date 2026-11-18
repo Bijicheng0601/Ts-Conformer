@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+restricted_data/
+outputs/
+*.fif
+*.edf
+*.bdf
+*.set
+*.fdt
+*.pt
+*.pth
+subject_mapping*
+.env
