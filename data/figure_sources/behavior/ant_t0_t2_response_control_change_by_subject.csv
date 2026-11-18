@@ -1,0 +1,241 @@
+subject,comparison_group,group_label,original_group,response_label,metric,metric_label,direction,T0,T2,raw_change_T2_minus_T0,improvement_T0_to_T2
+P278309,experimental_ineffective,Ineffective,experimental,ineffective,mean_rt_ms,Mean RT (ms),lower_better,604.0602836879433,608.2789855072464,4.218701819303078,-4.218701819303078
+P278309,experimental_ineffective,Ineffective,experimental,ineffective,accuracy_pct,Accuracy (%),higher_better,97.91666666666666,95.83333333333334,-2.0833333333333144,-2.0833333333333144
+P278309,experimental_ineffective,Ineffective,experimental,ineffective,rt_variability_cv_pct,RT variability CV (%),lower_better,27.922889873782022,30.07583670584551,2.1529468320634884,-2.1529468320634884
+P278309,experimental_ineffective,Ineffective,experimental,ineffective,impulsive_rate_pct,Impulsive rate (%),lower_better,0.0,0.0,0.0,-0.0
+P278309,experimental_ineffective,Ineffective,experimental,ineffective,omission_rate_pct,Omission rate (%),lower_better,0.3472222222222222,1.3888888888888888,1.0416666666666665,-1.0416666666666665
+P413900,experimental_ineffective,Ineffective,experimental,ineffective,mean_rt_ms,Mean RT (ms),lower_better,501.7622641509434,590.6678700361011,88.90560588515774,-88.90560588515774
+P413900,experimental_ineffective,Ineffective,experimental,ineffective,accuracy_pct,Accuracy (%),higher_better,92.01388888888889,96.18055555555556,4.166666666666671,4.166666666666671
+P413900,experimental_ineffective,Ineffective,experimental,ineffective,rt_variability_cv_pct,RT variability CV (%),lower_better,27.954696168711944,34.61478566354884,6.6600894948368925,-6.6600894948368925
+P413900,experimental_ineffective,Ineffective,experimental,ineffective,impulsive_rate_pct,Impulsive rate (%),lower_better,0.3484320557491289,0.0,-0.3484320557491289,0.3484320557491289
+P413900,experimental_ineffective,Ineffective,experimental,ineffective,omission_rate_pct,Omission rate (%),lower_better,0.3472222222222222,0.3472222222222222,0.0,-0.0
+P184454,experimental_effective,Effective,experimental,effective,mean_rt_ms,Mean RT (ms),lower_better,897.6933333333334,694.2656826568266,-203.4276506765068,203.4276506765068
+P184454,experimental_effective,Effective,experimental,effective,accuracy_pct,Accuracy (%),higher_better,78.125,94.0972222222222,15.9722222222222,15.9722222222222
+P184454,experimental_effective,Effective,experimental,effective,rt_variability_cv_pct,RT variability CV (%),lower_better,33.61012657933973,29.592523006816645,-4.0176035725230825,4.0176035725230825
+P184454,experimental_effective,Effective,experimental,effective,impulsive_rate_pct,Impulsive rate (%),lower_better,0.7843137254901961,0.0,-0.7843137254901961,0.7843137254901961
+P184454,experimental_effective,Effective,experimental,effective,omission_rate_pct,Omission rate (%),lower_better,11.458333333333332,0.6944444444444444,-10.763888888888888,10.763888888888888
+P866205,experimental_effective,Effective,experimental,effective,mean_rt_ms,Mean RT (ms),lower_better,703.1488549618321,673.1978021978022,-29.951052764029896,29.951052764029896
+P866205,experimental_effective,Effective,experimental,effective,accuracy_pct,Accuracy (%),higher_better,90.9722222222222,94.79166666666666,3.819444444444457,3.819444444444457
+P866205,experimental_effective,Effective,experimental,effective,rt_variability_cv_pct,RT variability CV (%),lower_better,36.015754770989155,32.77759031268243,-3.238164458306727,3.238164458306727
+P866205,experimental_effective,Effective,experimental,effective,impulsive_rate_pct,Impulsive rate (%),lower_better,0.7017543859649122,0.3484320557491289,-0.35332233021578335,0.35332233021578335
+P866205,experimental_effective,Effective,experimental,effective,omission_rate_pct,Omission rate (%),lower_better,1.0416666666666663,0.3472222222222222,-0.6944444444444441,0.6944444444444441
+P726485,experimental_ineffective,Ineffective,experimental,ineffective,mean_rt_ms,Mean RT (ms),lower_better,691.0661764705883,705.5468164794007,14.48064000881243,-14.48064000881243
+P726485,experimental_ineffective,Ineffective,experimental,ineffective,accuracy_pct,Accuracy (%),higher_better,94.44444444444444,92.70833333333334,-1.7361111111111,-1.7361111111111
+P726485,experimental_ineffective,Ineffective,experimental,ineffective,rt_variability_cv_pct,RT variability CV (%),lower_better,28.07281910243225,36.69065991266873,8.61784081023648,-8.61784081023648
+P726485,experimental_ineffective,Ineffective,experimental,ineffective,impulsive_rate_pct,Impulsive rate (%),lower_better,0.0,0.3623188405797101,0.3623188405797101,-0.3623188405797101
+P726485,experimental_ineffective,Ineffective,experimental,ineffective,omission_rate_pct,Omission rate (%),lower_better,2.7777777777777777,4.166666666666666,1.3888888888888884,-1.3888888888888884
+P139806,experimental_effective,Effective,experimental,effective,mean_rt_ms,Mean RT (ms),lower_better,441.40501792114696,447.0709219858156,5.665904064668609,-5.665904064668609
+P139806,experimental_effective,Effective,experimental,effective,accuracy_pct,Accuracy (%),higher_better,96.875,97.91666666666666,1.0416666666666572,1.0416666666666572
+P139806,experimental_effective,Effective,experimental,effective,rt_variability_cv_pct,RT variability CV (%),lower_better,20.54467488705499,16.39338523116795,-4.151289655887037,4.151289655887037
+P139806,experimental_effective,Effective,experimental,effective,impulsive_rate_pct,Impulsive rate (%),lower_better,0.0,0.0,0.0,-0.0
+P139806,experimental_effective,Effective,experimental,effective,omission_rate_pct,Omission rate (%),lower_better,0.0,0.0,0.0,-0.0
+P268649,experimental_effective,Effective,experimental,effective,mean_rt_ms,Mean RT (ms),lower_better,814.8150943396226,729.0627177700349,-85.7523765695878,85.7523765695878
+P268649,experimental_effective,Effective,experimental,effective,accuracy_pct,Accuracy (%),higher_better,92.01388888888889,99.6527777777778,7.638888888888914,7.638888888888914
+P268649,experimental_effective,Effective,experimental,effective,rt_variability_cv_pct,RT variability CV (%),lower_better,27.242863067513547,24.43148820411561,-2.811374863397937,2.811374863397937
+P268649,experimental_effective,Effective,experimental,effective,impulsive_rate_pct,Impulsive rate (%),lower_better,0.3663003663003663,0.0,-0.3663003663003663,0.3663003663003663
+P268649,experimental_effective,Effective,experimental,effective,omission_rate_pct,Omission rate (%),lower_better,5.208333333333334,0.3472222222222222,-4.861111111111112,4.861111111111112
+P193406,experimental_effective,Effective,experimental,effective,mean_rt_ms,Mean RT (ms),lower_better,836.429203539823,734.6322314049587,-101.79697213486429,101.79697213486429
+P193406,experimental_effective,Effective,experimental,effective,accuracy_pct,Accuracy (%),higher_better,78.47222222222221,84.02777777777779,5.555555555555571,5.555555555555571
+P193406,experimental_effective,Effective,experimental,effective,rt_variability_cv_pct,RT variability CV (%),lower_better,35.22692705109316,35.08845799994382,-0.13846905114934316,0.13846905114934316
+P193406,experimental_effective,Effective,experimental,effective,impulsive_rate_pct,Impulsive rate (%),lower_better,0.3861003861003861,0.0,-0.3861003861003861,0.3861003861003861
+P193406,experimental_effective,Effective,experimental,effective,omission_rate_pct,Omission rate (%),lower_better,10.069444444444445,4.513888888888888,-5.555555555555556,5.555555555555556
+P513756,experimental_ineffective,Ineffective,experimental,ineffective,mean_rt_ms,Mean RT (ms),lower_better,937.0363636363636,793.0559440559441,-143.9804195804195,143.9804195804195
+P513756,experimental_ineffective,Ineffective,experimental,ineffective,accuracy_pct,Accuracy (%),higher_better,95.48611111111111,99.30555555555556,3.819444444444443,3.819444444444443
+P513756,experimental_ineffective,Ineffective,experimental,ineffective,rt_variability_cv_pct,RT variability CV (%),lower_better,24.867856709636964,27.94290810242065,3.075051392783685,-3.075051392783685
+P513756,experimental_ineffective,Ineffective,experimental,ineffective,impulsive_rate_pct,Impulsive rate (%),lower_better,0.0,0.0,0.0,-0.0
+P513756,experimental_ineffective,Ineffective,experimental,ineffective,omission_rate_pct,Omission rate (%),lower_better,3.4722222222222223,0.3472222222222222,-3.125,3.125
+P459246,experimental_effective,Effective,experimental,effective,mean_rt_ms,Mean RT (ms),lower_better,837.6489361702128,768.2022058823529,-69.44673028785985,69.44673028785985
+P459246,experimental_effective,Effective,experimental,effective,accuracy_pct,Accuracy (%),higher_better,65.27777777777779,94.44444444444444,29.166666666666657,29.166666666666657
+P459246,experimental_effective,Effective,experimental,effective,rt_variability_cv_pct,RT variability CV (%),lower_better,37.55400951480162,32.722719310761605,-4.831290204040016,4.831290204040016
+P459246,experimental_effective,Effective,experimental,effective,impulsive_rate_pct,Impulsive rate (%),lower_better,0.3968253968253968,0.0,-0.3968253968253968,0.3968253968253968
+P459246,experimental_effective,Effective,experimental,effective,omission_rate_pct,Omission rate (%),lower_better,12.5,3.125,-9.375,9.375
+P905766,experimental_effective,Effective,experimental,effective,mean_rt_ms,Mean RT (ms),lower_better,863.8,899.3745173745174,35.57451737451743,-35.57451737451743
+P905766,experimental_effective,Effective,experimental,effective,accuracy_pct,Accuracy (%),higher_better,79.86111111111111,89.93055555555556,10.069444444444443,10.069444444444443
+P905766,experimental_effective,Effective,experimental,effective,rt_variability_cv_pct,RT variability CV (%),lower_better,33.35917248666164,32.4796312770416,-0.8795412096200437,0.8795412096200437
+P905766,experimental_effective,Effective,experimental,effective,impulsive_rate_pct,Impulsive rate (%),lower_better,0.3891050583657587,0.0,-0.3891050583657587,0.3891050583657587
+P905766,experimental_effective,Effective,experimental,effective,omission_rate_pct,Omission rate (%),lower_better,10.76388888888889,5.902777777777778,-4.861111111111112,4.861111111111112
+P800898,experimental_effective,Effective,experimental,effective,mean_rt_ms,Mean RT (ms),lower_better,766.4580152671756,589.5845588235294,-176.8734564436462,176.8734564436462
+P800898,experimental_effective,Effective,experimental,effective,accuracy_pct,Accuracy (%),higher_better,90.9722222222222,94.44444444444444,3.4722222222222427,3.4722222222222427
+P800898,experimental_effective,Effective,experimental,effective,rt_variability_cv_pct,RT variability CV (%),lower_better,31.83227908121599,31.50419726575694,-0.3280818154590506,0.3280818154590506
+P800898,experimental_effective,Effective,experimental,effective,impulsive_rate_pct,Impulsive rate (%),lower_better,1.079136690647482,0.0,-1.079136690647482,1.079136690647482
+P800898,experimental_effective,Effective,experimental,effective,omission_rate_pct,Omission rate (%),lower_better,3.4722222222222223,1.0416666666666663,-2.4305555555555562,2.4305555555555562
+P357571,experimental_effective,Effective,experimental,effective,mean_rt_ms,Mean RT (ms),lower_better,844.9885496183206,609.0758122743682,-235.91273734395236,235.91273734395236
+P357571,experimental_effective,Effective,experimental,effective,accuracy_pct,Accuracy (%),higher_better,90.9722222222222,96.18055555555556,5.208333333333357,5.208333333333357
+P357571,experimental_effective,Effective,experimental,effective,rt_variability_cv_pct,RT variability CV (%),lower_better,28.90923171617991,28.855013687470755,-0.05421802870915471,0.05421802870915471
+P357571,experimental_effective,Effective,experimental,effective,impulsive_rate_pct,Impulsive rate (%),lower_better,0.0,0.3484320557491289,0.3484320557491289,-0.3484320557491289
+P357571,experimental_effective,Effective,experimental,effective,omission_rate_pct,Omission rate (%),lower_better,4.861111111111112,0.3472222222222222,-4.513888888888889,4.513888888888889
+P488231,experimental_effective,Effective,experimental,effective,mean_rt_ms,Mean RT (ms),lower_better,694.6036363636364,508.8164794007491,-185.7871569628873,185.7871569628873
+P488231,experimental_effective,Effective,experimental,effective,accuracy_pct,Accuracy (%),higher_better,95.48611111111111,92.70833333333334,-2.7777777777777715,-2.7777777777777715
+P488231,experimental_effective,Effective,experimental,effective,rt_variability_cv_pct,RT variability CV (%),lower_better,34.77171889733753,32.18796202325393,-2.5837568740835977,2.5837568740835977
+P488231,experimental_effective,Effective,experimental,effective,impulsive_rate_pct,Impulsive rate (%),lower_better,0.0,0.0,0.0,-0.0
+P488231,experimental_effective,Effective,experimental,effective,omission_rate_pct,Omission rate (%),lower_better,2.7777777777777777,0.3472222222222222,-2.4305555555555554,2.4305555555555554
+P465163,experimental_effective,Effective,experimental,effective,mean_rt_ms,Mean RT (ms),lower_better,832.5390946502058,966.4444444444443,133.90534979423853,-133.90534979423853
+P465163,experimental_effective,Effective,experimental,effective,accuracy_pct,Accuracy (%),higher_better,84.375,84.375,0.0,0.0
+P465163,experimental_effective,Effective,experimental,effective,rt_variability_cv_pct,RT variability CV (%),lower_better,29.95110094625456,23.26362002396281,-6.687480922291748,6.687480922291748
+P465163,experimental_effective,Effective,experimental,effective,impulsive_rate_pct,Impulsive rate (%),lower_better,0.0,0.7633587786259541,0.7633587786259541,-0.7633587786259541
+P465163,experimental_effective,Effective,experimental,effective,omission_rate_pct,Omission rate (%),lower_better,5.208333333333334,9.027777777777777,3.819444444444443,-3.819444444444443
+P866833,experimental_effective,Effective,experimental,effective,mean_rt_ms,Mean RT (ms),lower_better,764.175355450237,742.9735849056603,-21.201770544576675,21.201770544576675
+P866833,experimental_effective,Effective,experimental,effective,accuracy_pct,Accuracy (%),higher_better,73.26388888888889,92.01388888888889,18.75,18.75
+P866833,experimental_effective,Effective,experimental,effective,rt_variability_cv_pct,RT variability CV (%),lower_better,36.48143711946489,33.18605411909633,-3.2953830003685596,3.2953830003685596
+P866833,experimental_effective,Effective,experimental,effective,impulsive_rate_pct,Impulsive rate (%),lower_better,0.7246376811594203,0.3533568904593639,-0.3712807907000564,0.3712807907000564
+P866833,experimental_effective,Effective,experimental,effective,omission_rate_pct,Omission rate (%),lower_better,4.166666666666666,1.7361111111111112,-2.430555555555555,2.430555555555555
+P438294,experimental_effective,Effective,experimental,effective,mean_rt_ms,Mean RT (ms),lower_better,717.3790322580645,737.7942238267148,20.415191568650243,-20.415191568650243
+P438294,experimental_effective,Effective,experimental,effective,accuracy_pct,Accuracy (%),higher_better,86.11111111111111,96.18055555555556,10.069444444444443,10.069444444444443
+P438294,experimental_effective,Effective,experimental,effective,rt_variability_cv_pct,RT variability CV (%),lower_better,39.22949898581168,32.599662391696306,-6.629836594115375,6.629836594115375
+P438294,experimental_effective,Effective,experimental,effective,impulsive_rate_pct,Impulsive rate (%),lower_better,1.8115942028985508,0.3508771929824561,-1.4607170099160947,1.4607170099160947
+P438294,experimental_effective,Effective,experimental,effective,omission_rate_pct,Omission rate (%),lower_better,4.166666666666666,1.0416666666666663,-3.125,3.125
+P476403,experimental_effective,Effective,experimental,effective,mean_rt_ms,Mean RT (ms),lower_better,645.4401408450705,536.949090909091,-108.4910499359795,108.4910499359795
+P476403,experimental_effective,Effective,experimental,effective,accuracy_pct,Accuracy (%),higher_better,98.61111111111111,95.48611111111111,-3.125,-3.125
+P476403,experimental_effective,Effective,experimental,effective,rt_variability_cv_pct,RT variability CV (%),lower_better,32.14261933915878,26.241585455582733,-5.901033883576044,5.901033883576044
+P476403,experimental_effective,Effective,experimental,effective,impulsive_rate_pct,Impulsive rate (%),lower_better,0.0,0.0,0.0,-0.0
+P476403,experimental_effective,Effective,experimental,effective,omission_rate_pct,Omission rate (%),lower_better,1.0416666666666663,0.0,-1.0416666666666663,1.0416666666666663
+P203235,experimental_effective,Effective,experimental,effective,mean_rt_ms,Mean RT (ms),lower_better,814.2687747035573,544.6735537190083,-269.595220984549,269.595220984549
+P203235,experimental_effective,Effective,experimental,effective,accuracy_pct,Accuracy (%),higher_better,87.84722222222221,84.02777777777779,-3.8194444444444287,-3.8194444444444287
+P203235,experimental_effective,Effective,experimental,effective,rt_variability_cv_pct,RT variability CV (%),lower_better,29.056378799706778,39.13428066060786,10.077901860901079,-10.077901860901079
+P203235,experimental_effective,Effective,experimental,effective,impulsive_rate_pct,Impulsive rate (%),lower_better,0.3597122302158274,0.6968641114982579,0.3371518812824305,-0.3371518812824305
+P203235,experimental_effective,Effective,experimental,effective,omission_rate_pct,Omission rate (%),lower_better,3.4722222222222223,0.3472222222222222,-3.125,3.125
+P404184,experimental_effective,Effective,experimental,effective,mean_rt_ms,Mean RT (ms),lower_better,755.7681818181818,747.3380782918149,-8.430103526366906,8.430103526366906
+P404184,experimental_effective,Effective,experimental,effective,accuracy_pct,Accuracy (%),higher_better,76.38888888888889,97.56944444444444,21.180555555555557,21.180555555555557
+P404184,experimental_effective,Effective,experimental,effective,rt_variability_cv_pct,RT variability CV (%),lower_better,32.377519092549804,31.17315918647965,-1.2043599060701524,1.2043599060701524
+P404184,experimental_effective,Effective,experimental,effective,impulsive_rate_pct,Impulsive rate (%),lower_better,2.941176470588235,0.0,-2.941176470588235,2.941176470588235
+P404184,experimental_effective,Effective,experimental,effective,omission_rate_pct,Omission rate (%),lower_better,5.555555555555555,2.083333333333333,-3.4722222222222223,3.4722222222222223
+P845996,experimental_ineffective,Ineffective,experimental,ineffective,mean_rt_ms,Mean RT (ms),lower_better,566.0307692307692,533.2573529411765,-32.773416289592774,32.773416289592774
+P845996,experimental_ineffective,Ineffective,experimental,ineffective,accuracy_pct,Accuracy (%),higher_better,90.2777777777778,94.44444444444444,4.166666666666643,4.166666666666643
+P845996,experimental_ineffective,Ineffective,experimental,ineffective,rt_variability_cv_pct,RT variability CV (%),lower_better,26.819984976935316,29.021428333315345,2.201443356380029,-2.201443356380029
+P845996,experimental_ineffective,Ineffective,experimental,ineffective,impulsive_rate_pct,Impulsive rate (%),lower_better,1.0452961672473868,0.0,-1.0452961672473868,1.0452961672473868
+P845996,experimental_ineffective,Ineffective,experimental,ineffective,omission_rate_pct,Omission rate (%),lower_better,0.3472222222222222,0.3472222222222222,0.0,-0.0
+P967723,experimental_ineffective,Ineffective,experimental,ineffective,mean_rt_ms,Mean RT (ms),lower_better,726.0869565217391,700.0631970260223,-26.02375949571683,26.02375949571683
+P967723,experimental_ineffective,Ineffective,experimental,ineffective,accuracy_pct,Accuracy (%),higher_better,87.84722222222221,93.4027777777778,5.555555555555586,5.555555555555586
+P967723,experimental_ineffective,Ineffective,experimental,ineffective,rt_variability_cv_pct,RT variability CV (%),lower_better,34.71914823909203,36.94434757812464,2.2251993390326135,-2.2251993390326135
+P967723,experimental_ineffective,Ineffective,experimental,ineffective,impulsive_rate_pct,Impulsive rate (%),lower_better,0.3731343283582089,0.0,-0.3731343283582089,0.3731343283582089
+P967723,experimental_ineffective,Ineffective,experimental,ineffective,omission_rate_pct,Omission rate (%),lower_better,6.944444444444445,2.083333333333333,-4.861111111111112,4.861111111111112
+P817767,experimental_effective,Effective,experimental,effective,mean_rt_ms,Mean RT (ms),lower_better,834.4163424124514,608.5836575875486,-225.8326848249028,225.8326848249028
+P817767,experimental_effective,Effective,experimental,effective,accuracy_pct,Accuracy (%),higher_better,89.23611111111111,89.23611111111111,0.0,0.0
+P817767,experimental_effective,Effective,experimental,effective,rt_variability_cv_pct,RT variability CV (%),lower_better,28.867009723603697,30.635538192691214,1.7685284690875172,-1.7685284690875172
+P817767,experimental_effective,Effective,experimental,effective,impulsive_rate_pct,Impulsive rate (%),lower_better,0.0,0.3496503496503496,0.3496503496503496,-0.3496503496503496
+P817767,experimental_effective,Effective,experimental,effective,omission_rate_pct,Omission rate (%),lower_better,4.513888888888888,0.6944444444444444,-3.8194444444444438,3.8194444444444438
+P846219,experimental_ineffective,Ineffective,experimental,ineffective,mean_rt_ms,Mean RT (ms),lower_better,659.1716417910447,848.3091603053435,189.1375185142988,-189.1375185142988
+P846219,experimental_ineffective,Ineffective,experimental,ineffective,accuracy_pct,Accuracy (%),higher_better,93.05555555555556,90.9722222222222,-2.083333333333357,-2.083333333333357
+P846219,experimental_ineffective,Ineffective,experimental,ineffective,rt_variability_cv_pct,RT variability CV (%),lower_better,33.010429293854536,19.74760365912045,-13.262825634734085,13.262825634734085
+P846219,experimental_ineffective,Ineffective,experimental,ineffective,impulsive_rate_pct,Impulsive rate (%),lower_better,0.3508771929824561,0.0,-0.3508771929824561,0.3508771929824561
+P846219,experimental_ineffective,Ineffective,experimental,ineffective,omission_rate_pct,Omission rate (%),lower_better,1.0416666666666663,1.7361111111111112,0.6944444444444449,-0.6944444444444449
+P941355,experimental_effective,Effective,experimental,effective,mean_rt_ms,Mean RT (ms),lower_better,973.7362204724408,892.4109090909091,-81.32531138153172,81.32531138153172
+P941355,experimental_effective,Effective,experimental,effective,accuracy_pct,Accuracy (%),higher_better,88.19444444444444,95.48611111111111,7.291666666666671,7.291666666666671
+P941355,experimental_effective,Effective,experimental,effective,rt_variability_cv_pct,RT variability CV (%),lower_better,28.420905537664105,31.24187681442937,2.820971276765267,-2.820971276765267
+P941355,experimental_effective,Effective,experimental,effective,impulsive_rate_pct,Impulsive rate (%),lower_better,0.381679389312977,0.7168458781362007,0.3351664888232237,-0.3351664888232237
+P941355,experimental_effective,Effective,experimental,effective,omission_rate_pct,Omission rate (%),lower_better,9.027777777777777,3.125,-5.902777777777777,5.902777777777777
+P762818,control,Control,control,control,mean_rt_ms,Mean RT (ms),lower_better,892.093984962406,677.3407407407408,-214.75324422166523,214.75324422166523
+P762818,control,Control,control,control,accuracy_pct,Accuracy (%),higher_better,92.36111111111111,93.75,1.3888888888888857,1.3888888888888857
+P762818,control,Control,control,control,rt_variability_cv_pct,RT variability CV (%),lower_better,27.197646287608592,29.70152335175992,2.503877064151329,-2.503877064151329
+P762818,control,Control,control,control,impulsive_rate_pct,Impulsive rate (%),lower_better,0.3636363636363636,0.0,-0.3636363636363636,0.3636363636363636
+P762818,control,Control,control,control,omission_rate_pct,Omission rate (%),lower_better,4.513888888888888,2.430555555555556,-2.0833333333333326,2.0833333333333326
+P879162,control,Control,control,control,mean_rt_ms,Mean RT (ms),lower_better,763.7935943060498,536.2769784172662,-227.5166158887837,227.5166158887837
+P879162,control,Control,control,control,accuracy_pct,Accuracy (%),higher_better,97.56944444444444,96.5277777777778,-1.041666666666643,-1.041666666666643
+P879162,control,Control,control,control,rt_variability_cv_pct,RT variability CV (%),lower_better,25.136760810423027,23.27666841190536,-1.8600923985176685,1.8600923985176685
+P879162,control,Control,control,control,impulsive_rate_pct,Impulsive rate (%),lower_better,0.0,0.3472222222222222,0.3472222222222222,-0.3472222222222222
+P879162,control,Control,control,control,omission_rate_pct,Omission rate (%),lower_better,0.6944444444444444,0.0,-0.6944444444444444,0.6944444444444444
+P960782,control,Control,control,control,mean_rt_ms,Mean RT (ms),lower_better,663.7661870503597,579.5071942446043,-84.25899280575538,84.25899280575538
+P960782,control,Control,control,control,accuracy_pct,Accuracy (%),higher_better,96.5277777777778,96.5277777777778,0.0,0.0
+P960782,control,Control,control,control,rt_variability_cv_pct,RT variability CV (%),lower_better,28.2131769872512,36.08176702980453,7.868590042553333,-7.868590042553333
+P960782,control,Control,control,control,impulsive_rate_pct,Impulsive rate (%),lower_better,0.352112676056338,0.0,-0.352112676056338,0.352112676056338
+P960782,control,Control,control,control,omission_rate_pct,Omission rate (%),lower_better,1.3888888888888888,2.083333333333333,0.6944444444444442,-0.6944444444444442
+P477003,control,Control,control,control,mean_rt_ms,Mean RT (ms),lower_better,967.6489795918368,893.4314516129032,-74.21752797893362,74.21752797893362
+P477003,control,Control,control,control,accuracy_pct,Accuracy (%),higher_better,85.06944444444444,86.11111111111111,1.0416666666666714,1.0416666666666714
+P477003,control,Control,control,control,rt_variability_cv_pct,RT variability CV (%),lower_better,28.06963334163371,34.100940220256135,6.0313068786224235,-6.0313068786224235
+P477003,control,Control,control,control,impulsive_rate_pct,Impulsive rate (%),lower_better,0.0,0.3759398496240601,0.3759398496240601,-0.3759398496240601
+P477003,control,Control,control,control,omission_rate_pct,Omission rate (%),lower_better,10.069444444444445,7.638888888888889,-2.4305555555555554,2.4305555555555554
+P595849,control,Control,control,control,mean_rt_ms,Mean RT (ms),lower_better,863.6069651741293,720.9917012448133,-142.61526392931603,142.61526392931603
+P595849,control,Control,control,control,accuracy_pct,Accuracy (%),higher_better,69.79166666666666,83.68055555555556,13.8888888888889,13.8888888888889
+P595849,control,Control,control,control,rt_variability_cv_pct,RT variability CV (%),lower_better,35.11706364351059,34.44970971293394,-0.6673539305766525,0.6673539305766525
+P595849,control,Control,control,control,impulsive_rate_pct,Impulsive rate (%),lower_better,0.4032258064516129,0.0,-0.4032258064516129,0.4032258064516129
+P595849,control,Control,control,control,omission_rate_pct,Omission rate (%),lower_better,13.88888888888889,2.430555555555556,-11.458333333333334,11.458333333333334
+P188207,control,Control,control,control,mean_rt_ms,Mean RT (ms),lower_better,875.7120622568093,866.4090909090909,-9.302971347718426,9.302971347718426
+P188207,control,Control,control,control,accuracy_pct,Accuracy (%),higher_better,89.23611111111111,91.66666666666666,2.430555555555543,2.430555555555543
+P188207,control,Control,control,control,rt_variability_cv_pct,RT variability CV (%),lower_better,33.37292766958081,28.779180748393827,-4.593746921186984,4.593746921186984
+P188207,control,Control,control,control,impulsive_rate_pct,Impulsive rate (%),lower_better,0.0,0.0,0.0,-0.0
+P188207,control,Control,control,control,omission_rate_pct,Omission rate (%),lower_better,8.333333333333332,7.291666666666667,-1.0416666666666652,1.0416666666666652
+P202255,control,Control,control,control,mean_rt_ms,Mean RT (ms),lower_better,625.7259786476868,744.7544483985765,119.02846975088971,-119.02846975088971
+P202255,control,Control,control,control,accuracy_pct,Accuracy (%),higher_better,97.56944444444444,97.56944444444444,0.0,0.0
+P202255,control,Control,control,control,rt_variability_cv_pct,RT variability CV (%),lower_better,26.113218569790263,33.566893000923265,7.4536744311330025,-7.4536744311330025
+P202255,control,Control,control,control,impulsive_rate_pct,Impulsive rate (%),lower_better,0.0,0.0,0.0,-0.0
+P202255,control,Control,control,control,omission_rate_pct,Omission rate (%),lower_better,0.3472222222222222,1.0416666666666663,0.6944444444444441,-0.6944444444444441
+P579721,control,Control,control,control,mean_rt_ms,Mean RT (ms),lower_better,806.8921933085502,675.5859375,-131.3062558085502,131.3062558085502
+P579721,control,Control,control,control,accuracy_pct,Accuracy (%),higher_better,93.4027777777778,88.88888888888889,-4.513888888888914,-4.513888888888914
+P579721,control,Control,control,control,rt_variability_cv_pct,RT variability CV (%),lower_better,30.160491510225096,31.62717107521281,1.4666795649877145,-1.4666795649877145
+P579721,control,Control,control,control,impulsive_rate_pct,Impulsive rate (%),lower_better,0.0,0.0,0.0,-0.0
+P579721,control,Control,control,control,omission_rate_pct,Omission rate (%),lower_better,3.4722222222222223,3.125,-0.3472222222222223,0.3472222222222223
+P369995,control,Control,control,control,mean_rt_ms,Mean RT (ms),lower_better,957.5333333333332,1044.927966101695,87.3946327683617,-87.3946327683617
+P369995,control,Control,control,control,accuracy_pct,Accuracy (%),higher_better,83.33333333333334,81.94444444444444,-1.3888888888889,-1.3888888888889
+P369995,control,Control,control,control,rt_variability_cv_pct,RT variability CV (%),lower_better,25.03486502984481,28.268416962641798,3.2335519327969884,-3.2335519327969884
+P369995,control,Control,control,control,impulsive_rate_pct,Impulsive rate (%),lower_better,0.0,0.4065040650406504,0.4065040650406504,-0.4065040650406504
+P369995,control,Control,control,control,omission_rate_pct,Omission rate (%),lower_better,9.722222222222223,14.583333333333334,4.861111111111111,-4.861111111111111
+P720509,control,Control,control,control,mean_rt_ms,Mean RT (ms),lower_better,822.7490494296578,752.8893129770993,-69.85973645255854,69.85973645255854
+P720509,control,Control,control,control,accuracy_pct,Accuracy (%),higher_better,91.31944444444444,90.9722222222222,-0.34722222222224275,-0.34722222222224275
+P720509,control,Control,control,control,rt_variability_cv_pct,RT variability CV (%),lower_better,27.74022856670021,33.09631292853635,5.356084361836139,-5.356084361836139
+P720509,control,Control,control,control,impulsive_rate_pct,Impulsive rate (%),lower_better,0.3676470588235294,0.0,-0.3676470588235294,0.3676470588235294
+P720509,control,Control,control,control,omission_rate_pct,Omission rate (%),lower_better,5.555555555555555,5.208333333333334,-0.34722222222222143,0.34722222222222143
+P582636,control,Control,control,control,mean_rt_ms,Mean RT (ms),lower_better,903.6,1103.27969348659,199.67969348659005,-199.67969348659005
+P582636,control,Control,control,control,accuracy_pct,Accuracy (%),higher_better,65.97222222222221,90.625,24.652777777777786,24.652777777777786
+P582636,control,Control,control,control,rt_variability_cv_pct,RT variability CV (%),lower_better,28.65937504181271,21.80664825602737,-6.85272678578534,6.85272678578534
+P582636,control,Control,control,control,impulsive_rate_pct,Impulsive rate (%),lower_better,1.1363636363636365,0.0,-1.1363636363636365,1.1363636363636365
+P582636,control,Control,control,control,omission_rate_pct,Omission rate (%),lower_better,8.333333333333332,9.027777777777777,0.6944444444444446,-0.6944444444444446
+P359078,control,Control,control,control,mean_rt_ms,Mean RT (ms),lower_better,756.3846153846154,617.2426470588235,-139.14196832579182,139.14196832579182
+P359078,control,Control,control,control,accuracy_pct,Accuracy (%),higher_better,85.76388888888889,94.44444444444444,8.680555555555557,8.680555555555557
+P359078,control,Control,control,control,rt_variability_cv_pct,RT variability CV (%),lower_better,32.75261403384714,30.93051628694925,-1.8220977468978887,1.8220977468978887
+P359078,control,Control,control,control,impulsive_rate_pct,Impulsive rate (%),lower_better,1.0752688172043012,0.0,-1.0752688172043012,1.0752688172043012
+P359078,control,Control,control,control,omission_rate_pct,Omission rate (%),lower_better,3.125,0.6944444444444444,-2.4305555555555554,2.4305555555555554
+P514276,control,Control,control,control,mean_rt_ms,Mean RT (ms),lower_better,754.2262773722628,632.0611510791367,-122.16512629312604,122.16512629312604
+P514276,control,Control,control,control,accuracy_pct,Accuracy (%),higher_better,95.13888888888889,96.5277777777778,1.3888888888889142,1.3888888888889142
+P514276,control,Control,control,control,rt_variability_cv_pct,RT variability CV (%),lower_better,36.49344641271753,34.86522279391324,-1.6282236188042916,1.6282236188042916
+P514276,control,Control,control,control,impulsive_rate_pct,Impulsive rate (%),lower_better,0.7142857142857143,0.0,-0.7142857142857143,0.7142857142857143
+P514276,control,Control,control,control,omission_rate_pct,Omission rate (%),lower_better,2.7777777777777777,0.6944444444444444,-2.083333333333333,2.083333333333333
+P476403,control,Control,control,control,mean_rt_ms,Mean RT (ms),lower_better,549.1527272727272,591.4459930313589,42.293265758631605,-42.293265758631605
+P476403,control,Control,control,control,accuracy_pct,Accuracy (%),higher_better,95.48611111111111,99.6527777777778,4.166666666666686,4.166666666666686
+P476403,control,Control,control,control,rt_variability_cv_pct,RT variability CV (%),lower_better,21.7703617594635,23.27506551568255,1.5047037562190475,-1.5047037562190475
+P476403,control,Control,control,control,impulsive_rate_pct,Impulsive rate (%),lower_better,0.0,0.0,0.0,-0.0
+P476403,control,Control,control,control,omission_rate_pct,Omission rate (%),lower_better,0.3472222222222222,0.0,-0.3472222222222222,0.3472222222222222
+P345739,control,Control,control,control,mean_rt_ms,Mean RT (ms),lower_better,497.2212765957447,537.086642599278,39.86536600353327,-39.86536600353327
+P345739,control,Control,control,control,accuracy_pct,Accuracy (%),higher_better,81.59722222222221,96.18055555555556,14.583333333333343,14.583333333333343
+P345739,control,Control,control,control,rt_variability_cv_pct,RT variability CV (%),lower_better,29.413962895313198,30.577137026399495,1.163174131086297,-1.163174131086297
+P345739,control,Control,control,control,impulsive_rate_pct,Impulsive rate (%),lower_better,1.3888888888888888,0.0,-1.3888888888888888,1.3888888888888888
+P345739,control,Control,control,control,omission_rate_pct,Omission rate (%),lower_better,0.0,0.3472222222222222,0.3472222222222222,-0.3472222222222222
+P193341,control,Control,control,control,mean_rt_ms,Mean RT (ms),lower_better,647.0786516853933,776.9325842696629,129.85393258426961,-129.85393258426961
+P193341,control,Control,control,control,accuracy_pct,Accuracy (%),higher_better,92.70833333333334,92.70833333333334,0.0,0.0
+P193341,control,Control,control,control,rt_variability_cv_pct,RT variability CV (%),lower_better,28.500997086231838,31.76708596585375,3.266088879621911,-3.266088879621911
+P193341,control,Control,control,control,impulsive_rate_pct,Impulsive rate (%),lower_better,0.0,0.7272727272727273,0.7272727272727273,-0.7272727272727273
+P193341,control,Control,control,control,omission_rate_pct,Omission rate (%),lower_better,2.083333333333333,4.513888888888888,2.4305555555555554,-2.4305555555555554
+P776021,control,Control,control,control,mean_rt_ms,Mean RT (ms),lower_better,741.9748201438849,731.268115942029,-10.706704201855928,10.706704201855928
+P776021,control,Control,control,control,accuracy_pct,Accuracy (%),higher_better,96.5277777777778,95.83333333333334,-0.6944444444444571,-0.6944444444444571
+P776021,control,Control,control,control,rt_variability_cv_pct,RT variability CV (%),lower_better,29.37431969802241,32.96289085215348,3.588571154131067,-3.588571154131067
+P776021,control,Control,control,control,impulsive_rate_pct,Impulsive rate (%),lower_better,0.0,0.0,0.0,-0.0
+P776021,control,Control,control,control,omission_rate_pct,Omission rate (%),lower_better,2.083333333333333,1.3888888888888888,-0.6944444444444442,0.6944444444444442
+P776026,control,Control,control,control,mean_rt_ms,Mean RT (ms),lower_better,839.0807692307692,881.3765182186235,42.29574898785427,-42.29574898785427
+P776026,control,Control,control,control,accuracy_pct,Accuracy (%),higher_better,90.2777777777778,85.76388888888889,-4.513888888888914,-4.513888888888914
+P776026,control,Control,control,control,rt_variability_cv_pct,RT variability CV (%),lower_better,33.82594824319685,32.9393345853638,-0.8866136578330455,0.8866136578330455
+P776026,control,Control,control,control,impulsive_rate_pct,Impulsive rate (%),lower_better,0.0,0.0,0.0,-0.0
+P776026,control,Control,control,control,omission_rate_pct,Omission rate (%),lower_better,7.291666666666667,12.152777777777777,4.86111111111111,-4.86111111111111
+P265261,control,Control,control,control,mean_rt_ms,Mean RT (ms),lower_better,699.9305019305019,732.2078431372549,32.27734120675302,-32.27734120675302
+P265261,control,Control,control,control,accuracy_pct,Accuracy (%),higher_better,89.93055555555556,88.54166666666666,-1.3888888888889,-1.3888888888889
+P265261,control,Control,control,control,rt_variability_cv_pct,RT variability CV (%),lower_better,34.05925418251127,36.87715142609713,2.817897243585861,-2.817897243585861
+P265261,control,Control,control,control,impulsive_rate_pct,Impulsive rate (%),lower_better,0.0,0.3663003663003663,0.3663003663003663,-0.3663003663003663
+P265261,control,Control,control,control,omission_rate_pct,Omission rate (%),lower_better,0.6944444444444444,5.208333333333334,4.513888888888889,-4.513888888888889
+P128671,control,Control,control,control,mean_rt_ms,Mean RT (ms),lower_better,890.5612648221344,785.011673151751,-105.54959167038339,105.54959167038339
+P128671,control,Control,control,control,accuracy_pct,Accuracy (%),higher_better,87.84722222222221,89.23611111111111,1.3888888888889,1.3888888888889
+P128671,control,Control,control,control,rt_variability_cv_pct,RT variability CV (%),lower_better,26.52928412364969,32.08470306432097,5.555418940671281,-5.555418940671281
+P128671,control,Control,control,control,impulsive_rate_pct,Impulsive rate (%),lower_better,0.0,0.364963503649635,0.364963503649635,-0.364963503649635
+P128671,control,Control,control,control,omission_rate_pct,Omission rate (%),lower_better,6.944444444444445,4.861111111111112,-2.083333333333333,2.083333333333333
+P225867,control,Control,control,control,mean_rt_ms,Mean RT (ms),lower_better,729.405737704918,747.3380782918149,17.932340586896885,-17.932340586896885
+P225867,control,Control,control,control,accuracy_pct,Accuracy (%),higher_better,84.72222222222221,97.56944444444444,12.847222222222229,12.847222222222229
+P225867,control,Control,control,control,rt_variability_cv_pct,RT variability CV (%),lower_better,32.837196081281625,31.17315918647965,-1.6640368948019741,1.6640368948019741
+P225867,control,Control,control,control,impulsive_rate_pct,Impulsive rate (%),lower_better,0.3636363636363636,0.0,-0.3636363636363636,0.3636363636363636
+P225867,control,Control,control,control,omission_rate_pct,Omission rate (%),lower_better,4.513888888888888,2.083333333333333,-2.4305555555555554,2.4305555555555554
+P396261,control,Control,control,control,mean_rt_ms,Mean RT (ms),lower_better,530.0989399293286,506.4664310954064,-23.632508833922202,23.632508833922202
+P396261,control,Control,control,control,accuracy_pct,Accuracy (%),higher_better,98.26388888888889,98.26388888888889,0.0,0.0
+P396261,control,Control,control,control,rt_variability_cv_pct,RT variability CV (%),lower_better,21.88915153684181,26.89351340658612,5.0043618697443115,-5.0043618697443115
+P396261,control,Control,control,control,impulsive_rate_pct,Impulsive rate (%),lower_better,0.0,0.0,0.0,-0.0
+P396261,control,Control,control,control,omission_rate_pct,Omission rate (%),lower_better,0.0,0.3472222222222222,0.3472222222222222,-0.3472222222222222
+P356508,control,Control,control,control,mean_rt_ms,Mean RT (ms),lower_better,974.7236180904524,834.1422764227642,-140.5813416676882,140.5813416676882
+P356508,control,Control,control,control,accuracy_pct,Accuracy (%),higher_better,69.09722222222221,85.41666666666666,16.319444444444443,16.319444444444443
+P356508,control,Control,control,control,rt_variability_cv_pct,RT variability CV (%),lower_better,35.30721089086285,36.958767743601165,1.6515568527383166,-1.6515568527383166
+P356508,control,Control,control,control,impulsive_rate_pct,Impulsive rate (%),lower_better,2.0408163265306123,1.831501831501832,-0.2093144950287802,0.2093144950287802
+P356508,control,Control,control,control,omission_rate_pct,Omission rate (%),lower_better,14.930555555555555,5.208333333333334,-9.722222222222221,9.722222222222221

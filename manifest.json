@@ -1,0 +1,471 @@
+[
+  {
+    "file": "data/behavior/probiotic_behavior.csv",
+    "rows": 25,
+    "columns": [
+      "subject",
+      "T0_mean_rt_ms",
+      "T0_accuracy_pct",
+      "T0_rt_variability_cv_pct",
+      "T0_impulsive_rate_pct",
+      "T0_omission_rate_pct",
+      "T0_total_formal_trials",
+      "T0_responded_trials",
+      "T0_correct_trials",
+      "T0_omission_trials",
+      "T0_impulsive_trials",
+      "T1_mean_rt_ms",
+      "T1_accuracy_pct",
+      "T1_rt_variability_cv_pct",
+      "T1_impulsive_rate_pct",
+      "T1_omission_rate_pct",
+      "T1_total_formal_trials",
+      "T1_responded_trials",
+      "T1_correct_trials",
+      "T1_omission_trials",
+      "T1_impulsive_trials",
+      "T2_mean_rt_ms",
+      "T2_accuracy_pct",
+      "T2_rt_variability_cv_pct",
+      "T2_impulsive_rate_pct",
+      "T2_omission_rate_pct",
+      "T2_total_formal_trials",
+      "T2_responded_trials",
+      "T2_correct_trials",
+      "T2_omission_trials",
+      "T2_impulsive_trials"
+    ]
+  },
+  {
+    "file": "data/behavior/control_behavior.csv",
+    "rows": 23,
+    "columns": [
+      "subject",
+      "T0_mean_rt_ms",
+      "T0_accuracy_pct",
+      "T0_rt_variability_cv_pct",
+      "T0_impulsive_rate_pct",
+      "T0_omission_rate_pct",
+      "T0_total_formal_trials",
+      "T0_responded_trials",
+      "T0_correct_trials",
+      "T0_omission_trials",
+      "T0_impulsive_trials",
+      "T1_mean_rt_ms",
+      "T1_accuracy_pct",
+      "T1_rt_variability_cv_pct",
+      "T1_impulsive_rate_pct",
+      "T1_omission_rate_pct",
+      "T1_total_formal_trials",
+      "T1_responded_trials",
+      "T1_correct_trials",
+      "T1_omission_trials",
+      "T1_impulsive_trials",
+      "T2_mean_rt_ms",
+      "T2_accuracy_pct",
+      "T2_rt_variability_cv_pct",
+      "T2_impulsive_rate_pct",
+      "T2_omission_rate_pct",
+      "T2_total_formal_trials",
+      "T2_responded_trials",
+      "T2_correct_trials",
+      "T2_omission_trials",
+      "T2_impulsive_trials"
+    ]
+  },
+  {
+    "file": "data/behavior/response_labels.csv",
+    "rows": 25,
+    "columns": [
+      "subject",
+      "T0_rt_variability_cv_pct",
+      "T1_rt_variability_cv_pct",
+      "T2_rt_variability_cv_pct",
+      "T0_omission_rate_pct",
+      "T1_omission_rate_pct",
+      "T2_omission_rate_pct",
+      "core2_trajectory_score",
+      "core2_T2_improved_count",
+      "final_response_label_core2"
+    ]
+  },
+  {
+    "file": "data/figure_sources/behavior/ant_t0_t2_response_control_change_by_subject.csv",
+    "rows": 240,
+    "columns": [
+      "subject",
+      "comparison_group",
+      "group_label",
+      "original_group",
+      "response_label",
+      "metric",
+      "metric_label",
+      "direction",
+      "T0",
+      "T2",
+      "raw_change_T2_minus_T0",
+      "improvement_T0_to_T2"
+    ]
+  },
+  {
+    "file": "data/figure_sources/behavior/ant_t0_t2_response_control_group_summary.csv",
+    "rows": 15,
+    "columns": [
+      "comparison_group",
+      "group_label",
+      "metric",
+      "metric_label",
+      "direction",
+      "n",
+      "improvement_mean",
+      "improvement_std",
+      "improvement_sem",
+      "improvement_median",
+      "improvement_iqr"
+    ]
+  },
+  {
+    "file": "data/figure_sources/behavior/ant_t0_t2_response_control_omnibus_summary.csv",
+    "rows": 5,
+    "columns": [
+      "metric",
+      "metric_label",
+      "direction",
+      "test",
+      "h_stat",
+      "p_value",
+      "fdr_bh_p"
+    ]
+  },
+  {
+    "file": "data/figure_sources/behavior/ant_t0_t2_response_control_pairwise_summary.csv",
+    "rows": 15,
+    "columns": [
+      "metric",
+      "metric_label",
+      "direction",
+      "group_a",
+      "group_b",
+      "group_a_label",
+      "group_b_label",
+      "group_a_n",
+      "group_b_n",
+      "group_a_improvement_mean",
+      "group_b_improvement_mean",
+      "mean_difference_a_minus_b",
+      "welch_t_stat",
+      "welch_t_p",
+      "mannwhitney_u_stat",
+      "mannwhitney_u_p",
+      "hedges_g",
+      "fdr_bh_p"
+    ]
+  },
+  {
+    "file": "data/figure_sources/behavior/ant_three_stage_behavior_long.csv",
+    "rows": 144,
+    "columns": [
+      "group",
+      "subject",
+      "timepoint",
+      "mean_rt_ms",
+      "accuracy_pct",
+      "rt_variability_cv_pct",
+      "impulsive_rate_pct",
+      "omission_rate_pct"
+    ]
+  },
+  {
+    "file": "data/figure_sources/behavior/ant_three_stage_between_group_change_summary.csv",
+    "rows": 15,
+    "columns": [
+      "comparison",
+      "metric",
+      "metric_label",
+      "direction",
+      "experimental_n",
+      "control_n",
+      "experimental_improvement_mean",
+      "control_improvement_mean",
+      "improvement_mean_difference",
+      "welch_t_stat",
+      "welch_t_p",
+      "mannwhitney_u_stat",
+      "mannwhitney_u_p",
+      "hedges_g",
+      "fdr_bh_p"
+    ]
+  },
+  {
+    "file": "data/figure_sources/behavior/ant_three_stage_group_time_summary.csv",
+    "rows": 30,
+    "columns": [
+      "group",
+      "timepoint",
+      "metric",
+      "metric_label",
+      "direction",
+      "n",
+      "mean",
+      "std",
+      "sem",
+      "median"
+    ]
+  },
+  {
+    "file": "data/figure_sources/behavior/ant_three_stage_paired_change_summary.csv",
+    "rows": 30,
+    "columns": [
+      "group",
+      "comparison",
+      "metric",
+      "metric_label",
+      "direction",
+      "n",
+      "T0_mean",
+      "T1_mean",
+      "raw_change_mean_end_minus_start",
+      "improvement_mean",
+      "improvement_std",
+      "paired_t_stat",
+      "paired_t_p",
+      "wilcoxon_p",
+      "paired_effect_dz",
+      "T2_mean"
+    ]
+  },
+  {
+    "file": "data/figure_sources/erp/group_roi_waveforms.csv",
+    "rows": 7200,
+    "columns": [
+      "roi",
+      "group",
+      "timepoint",
+      "n",
+      "time_ms",
+      "mean_uv",
+      "ci95_low_uv",
+      "ci95_high_uv"
+    ]
+  },
+  {
+    "file": "data/figure_sources/erp/group_scalp_window_amplitudes.csv",
+    "rows": 720,
+    "columns": [
+      "window",
+      "group",
+      "timepoint",
+      "channel",
+      "mean_uv"
+    ]
+  },
+  {
+    "file": "data/figure_sources/erp/subject_roi_window_amplitudes.csv",
+    "rows": 1200,
+    "columns": [
+      "subject",
+      "group",
+      "timepoint",
+      "roi",
+      "component_window",
+      "mean_amplitude_uv"
+    ]
+  },
+  {
+    "file": "data/figure_sources/erp/statistics/comparison_summary.csv",
+    "rows": 10,
+    "columns": [
+      "scope",
+      "contrast",
+      "n_tests",
+      "n_nominal_p_lt_05",
+      "n_fdr_within_contrast",
+      "n_fdr_all_contrasts",
+      "min_p",
+      "min_q",
+      "lowest_p_location",
+      "lowest_p_window",
+      "welch_n_fdr_within_contrast"
+    ]
+  },
+  {
+    "file": "data/figure_sources/erp/statistics/electrode_group_tests.csv",
+    "rows": 600,
+    "columns": [
+      "scope",
+      "contrast",
+      "location",
+      "window",
+      "n_responders",
+      "n_nonresponders",
+      "responders_mean_uv",
+      "responders_sd_uv",
+      "nonresponders_mean_uv",
+      "nonresponders_sd_uv",
+      "difference_R_minus_NR_uv",
+      "welch_ci95_low_uv",
+      "welch_ci95_high_uv",
+      "hedges_g",
+      "welch_t",
+      "welch_df",
+      "permutation_p",
+      "permutations_as_or_more_extreme",
+      "total_partitions",
+      "welch_p_sensitivity",
+      "permutation_q_within_contrast",
+      "welch_q_within_contrast_sensitivity",
+      "permutation_q_all_contrasts",
+      "welch_q_all_contrasts_sensitivity",
+      "fdr_significant_within_contrast",
+      "fdr_significant_all_contrasts"
+    ]
+  },
+  {
+    "file": "data/figure_sources/erp/statistics/roi_group_tests.csv",
+    "rows": 80,
+    "columns": [
+      "scope",
+      "contrast",
+      "location",
+      "window",
+      "n_responders",
+      "n_nonresponders",
+      "responders_mean_uv",
+      "responders_sd_uv",
+      "nonresponders_mean_uv",
+      "nonresponders_sd_uv",
+      "difference_R_minus_NR_uv",
+      "welch_ci95_low_uv",
+      "welch_ci95_high_uv",
+      "hedges_g",
+      "welch_t",
+      "welch_df",
+      "permutation_p",
+      "permutations_as_or_more_extreme",
+      "total_partitions",
+      "welch_p_sensitivity",
+      "permutation_q_within_contrast",
+      "welch_q_within_contrast_sensitivity",
+      "permutation_q_all_contrasts",
+      "welch_q_all_contrasts_sensitivity",
+      "fdr_significant_within_contrast",
+      "fdr_significant_all_contrasts"
+    ]
+  },
+  {
+    "file": "data/figure_sources/model_comparison.csv",
+    "rows": 7,
+    "columns": [
+      "category",
+      "model",
+      "training_input",
+      "inference_input",
+      "accuracy",
+      "balanced_accuracy",
+      "roc_auc",
+      "pr_auc_effective",
+      "role"
+    ]
+  },
+  {
+    "file": "data/predictions/ts_conformer.csv",
+    "rows": 25,
+    "columns": [
+      "fold",
+      "subject",
+      "final_response_label_core2",
+      "true_label",
+      "predicted_probability_effective",
+      "true_label_probability",
+      "predicted_label"
+    ]
+  },
+  {
+    "file": "data/predictions/no_attention.csv",
+    "rows": 25,
+    "columns": [
+      "fold",
+      "subject",
+      "final_response_label_core2",
+      "true_label",
+      "predicted_probability_effective",
+      "true_label_probability",
+      "predicted_label"
+    ]
+  },
+  {
+    "file": "data/predictions/minibatch.csv",
+    "rows": 25,
+    "columns": [
+      "fold",
+      "subject",
+      "final_response_label_core2",
+      "true_label",
+      "predicted_probability_effective",
+      "true_label_probability",
+      "predicted_label"
+    ]
+  },
+  {
+    "file": "data/predictions/shallowconvnet.csv",
+    "rows": 25,
+    "columns": [
+      "fold",
+      "subject",
+      "final_response_label_core2",
+      "true_label",
+      "predicted_probability_effective",
+      "true_label_probability",
+      "predicted_label"
+    ]
+  },
+  {
+    "file": "data/predictions/temporal_resnet.csv",
+    "rows": 25,
+    "columns": [
+      "fold",
+      "subject",
+      "final_response_label_core2",
+      "true_label",
+      "predicted_probability_effective",
+      "true_label_probability",
+      "predicted_label"
+    ]
+  },
+  {
+    "file": "data/predictions/tcn.csv",
+    "rows": 25,
+    "columns": [
+      "fold",
+      "subject",
+      "final_response_label_core2",
+      "true_label",
+      "predicted_probability_effective",
+      "predicted_label"
+    ]
+  },
+  {
+    "file": "data/predictions/patchtst.csv",
+    "rows": 25,
+    "columns": [
+      "fold",
+      "subject",
+      "final_response_label_core2",
+      "true_label",
+      "predicted_probability_effective",
+      "predicted_label"
+    ]
+  },
+  {
+    "file": "data/predictions/timesnet.csv",
+    "rows": 25,
+    "columns": [
+      "fold",
+      "subject",
+      "final_response_label_core2",
+      "true_label",
+      "predicted_probability_effective",
+      "predicted_label"
+    ]
+  }
+]

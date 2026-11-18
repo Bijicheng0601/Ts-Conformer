@@ -1,0 +1,6 @@
+metric,metric_label,direction,test,h_stat,p_value,fdr_bh_p
+mean_rt_ms,Mean RT (ms),lower_better,kruskal_wallis,3.6779622822213582,0.1589793211133671,0.26496553518894517
+accuracy_pct,Accuracy (%),higher_better,kruskal_wallis,2.5945401942261586,0.27327679479114864,0.34159599348893577
+rt_variability_cv_pct,RT variability CV (%),lower_better,kruskal_wallis,9.278298897198624,0.009665915490144146,0.024164788725360365
+impulsive_rate_pct,Impulsive rate (%),lower_better,kruskal_wallis,0.9367728190845878,0.6260115800677858,0.6260115800677858
+omission_rate_pct,Omission rate (%),lower_better,kruskal_wallis,11.461955855987613,0.0032439033780398354,0.016219516890199178

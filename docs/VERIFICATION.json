@@ -1,0 +1,22 @@
+{
+  "checks": [
+    "Python syntax parsed",
+    "No original participant identifiers in CSV cell values",
+    "No machine-specific paths in shared CSVs",
+    "Primary metrics match comparison table to reported precision",
+    "Primary participant codes match behavioral data",
+    "Raw EEG excluded"
+  ],
+  "primary_metrics": {
+    "n": 25,
+    "accuracy": 0.88,
+    "balanced_accuracy": 0.873015873015873,
+    "roc_auc": 0.9761904761904763,
+    "pr_auc_effective": 0.9907216297825173
+  },
+  "not_tested": [
+    "Full model retraining",
+    "Raw EEG preprocessing execution",
+    "Exact final manuscript figure coverage"
+  ]
+}

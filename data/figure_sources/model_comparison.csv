@@ -1,0 +1,8 @@
+category,model,training_input,inference_input,accuracy,balanced_accuracy,roc_auc,pr_auc_effective,role
+Primary,TS-Conformer,Teacher: T0/T1/T2; student: T0/T1,T0/T1,0.880,0.873,0.976,0.991,Primary proposed model
+Ablation,TS-Conformer no-attention,Teacher: T0/T1/T2; student: T0/T1,T0/T1,0.640,0.750,0.857,0.948,Tests contribution of Transformer self-attention
+Ablation,TS-Conformer mini-batch,Teacher: T0/T1/T2; student: T0/T1,T0/T1,0.880,0.829,0.960,0.986,Optimization sensitivity analysis
+TS backbone,TS-ShallowConvNet,Teacher: T0/T1/T2; student: T0/T1,T0/T1,0.720,0.587,0.905,0.970,Alternative teacher-student EEG backbone
+TS backbone,TS-Temporal-ResNet,Teacher: T0/T1/T2; student: T0/T1,T0/T1,0.680,0.734,0.754,0.904,Alternative teacher-student temporal residual backbone
+T0/T1-only temporal baseline,TCN-T0T1,T0/T1,T0/T1,0.720,0.631,0.611,0.748,Supervised early temporal baseline without teacher
+T0/T1-only temporal baseline,PatchTST-T0T1,T0/T1,T0/T1,0.720,0.544,0.690,0.871,Patch-based Transformer early temporal baseline without teacher
